@@ -1,0 +1,15 @@
+C:\Users\SHIFAT\Desktop\C#\Keylogger\obj\Debug\net6.0\Keylogger.csproj.AssemblyReference.cache
+C:\Users\SHIFAT\Desktop\C#\Keylogger\obj\Debug\net6.0\Keylogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIFAT\Desktop\C#\Keylogger\obj\Debug\net6.0\Keylogger.AssemblyInfoInputs.cache
+C:\Users\SHIFAT\Desktop\C#\Keylogger\obj\Debug\net6.0\Keylogger.AssemblyInfo.cs
+C:\Users\SHIFAT\Desktop\C#\Keylogger\obj\Debug\net6.0\Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\SHIFAT\Desktop\C#\Keylogger\bin\Debug\net6.0\Keylogger.exe
+C:\Users\SHIFAT\Desktop\C#\Keylogger\bin\Debug\net6.0\Keylogger.deps.json
+C:\Users\SHIFAT\Desktop\C#\Keylogger\bin\Debug\net6.0\Keylogger.runtimeconfig.json
+C:\Users\SHIFAT\Desktop\C#\Keylogger\bin\Debug\net6.0\Keylogger.dll
+C:\Users\SHIFAT\Desktop\C#\Keylogger\bin\Debug\net6.0\Keylogger.pdb
+C:\Users\SHIFAT\Desktop\C#\Keylogger\obj\Debug\net6.0\Keylogger.dll
+C:\Users\SHIFAT\Desktop\C#\Keylogger\obj\Debug\net6.0\refint\Keylogger.dll
+C:\Users\SHIFAT\Desktop\C#\Keylogger\obj\Debug\net6.0\Keylogger.pdb
+C:\Users\SHIFAT\Desktop\C#\Keylogger\obj\Debug\net6.0\Keylogger.genruntimeconfig.cache
+C:\Users\SHIFAT\Desktop\C#\Keylogger\obj\Debug\net6.0\ref\Keylogger.dll
